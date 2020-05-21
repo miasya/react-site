@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2129fc91ffdcdf919ca742ea2e780ef9",
+    "revision": "cc1f2ced8aabd01c544d27e17009168e",
     "url": "/react-site/index.html"
   },
   {
-    "revision": "406701d2ed86bb0cb99e",
-    "url": "/react-site/static/css/main.245352dd.chunk.css"
+    "revision": "a322cf5e8dd72431451b",
+    "url": "/react-site/static/css/main.92d596d7.chunk.css"
   },
   {
-    "revision": "f6e5b10ad92ba8d1d939",
-    "url": "/react-site/static/js/2.41253832.chunk.js"
+    "revision": "41f2d192130d6f84de0e",
+    "url": "/react-site/static/js/2.3934ecb6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-site/static/js/2.41253832.chunk.js.LICENSE.txt"
+    "url": "/react-site/static/js/2.3934ecb6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "406701d2ed86bb0cb99e",
-    "url": "/react-site/static/js/main.db4c21f1.chunk.js"
+    "revision": "a322cf5e8dd72431451b",
+    "url": "/react-site/static/js/main.0648d353.chunk.js"
   },
   {
     "revision": "d3f845b8d90ee44310f8",
@@ -50,5 +50,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "41bfdf86dbd0ee3961c7f666ea9b1891",
     "url": "/react-site/static/media/project6.41bfdf86.jpg"
+  },
+  {
+    "revision": "01862a67a2829bf30b7e6833d3e6004c",
+    "url": "/react-site/static/media/watermelon-logo.01862a67.jpg"
   }
 ]);
